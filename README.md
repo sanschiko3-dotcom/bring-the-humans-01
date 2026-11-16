@@ -1,3 +1,7 @@
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/sanschiko3-dotcom/bring-the-humans-01/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/sanschiko3-dotcom/bring-the-humans-01/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+
 # Bring the humans — make.fun ad page
 
 An ad page for [make.fun](https://make.fun), built for the
@@ -18,6 +22,11 @@ at 1280×800, with the invite link visible.
 
 The page names the code in the hero, in the invite pass, and in the footer
 note, and links every call-to-action to the referral URL.
+
+## Run it
+
+Open `index.html` in any browser — no build step, no server needed. The page
+is a single static file; `ad.png` shows it rendered at 1280×800.
 
 ## What the page says (honest numbers)
 
